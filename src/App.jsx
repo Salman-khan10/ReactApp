@@ -16,8 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>My ReactApp</h1>
-          <h2>This Salman Khan Website</h2>
+          <h1>This is salman Khan Website</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
