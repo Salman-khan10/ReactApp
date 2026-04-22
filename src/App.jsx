@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>My ReactApp</h1>
+          <h2>This Salman Khan Website</h2>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
